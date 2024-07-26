@@ -1,2 +1,2 @@
 # Live-Video-Streaming
-Live Video Streaming using Flask, OpenCV
+Detecting face and eyes in Live Video Streaming using Flask, OpenCV and bounding boxes. 
